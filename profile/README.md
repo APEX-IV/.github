@@ -2,7 +2,8 @@
 # ⬢ APEX-IV 
 ### Engineering the Apex of Human Progress from the Heart of Ethiopia 🇪🇹
 
-![APEX-IV Banner](APEX-IV BANNER.png)
+![APEX-IV Banner](../APEX-IV%20BANNER.png)
+
 
 ---
 
