@@ -45,7 +45,5 @@ APEX-IV is not just an organization; it’s a standard. We are here to prove tha
 
 ---
 
-<p align="center">
-  <img src="https://vercel.app" alt="APEX-IV Quote" />
-</p>
+[![APEX-IV Dev Quotes](https://vercel.app)](https://github.com/piyushsuthar/github-readme-quotes)
 
