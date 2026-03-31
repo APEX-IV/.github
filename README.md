@@ -2,9 +2,7 @@
 # ⬢ APEX-IV 
 ### Engineering the Apex of Human Progress from the Heart of Ethiopia 🇪🇹
 
-![APEX-IV Banner](https://shields.io)
-![Team Size](https://shields.io)
-![Status](https://shields.io)
+![APEX-IV Banner](APEX-IV BANNER.png)
 
 ---
 
